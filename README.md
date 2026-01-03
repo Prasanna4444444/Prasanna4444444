@@ -1,3 +1,6 @@
+
+
+# 💫 About Me:
 # Hi, I’m Prasanna Khanal 👋
 **Aspiring Cybersecurity Specialist | Ethical Hacker | Full-Stack Developer**
 
@@ -5,8 +8,8 @@
 
 ### 🔭 I’m currently working on
 - Strengthening my **cybersecurity skills** with penetration testing labs and bug bounty challenges  
-- Building personal projects like **Blogging Platform with Admin Dashboard**  
-- Practicing ethical hacking in **WSL/Linux environment**
+- Building personal projects  
+- Practicing ethical hacking 
 
 ### 👯 I’m looking to collaborate on
 - Open-source **cybersecurity tools and scripts**  
@@ -46,3 +49,9 @@
 [![](https://visitcount.itsvg.in/api?id=Prasanna4444444&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
