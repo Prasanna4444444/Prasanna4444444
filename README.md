@@ -1,14 +1,12 @@
-
-
 # 💫 About Me:
 # Hi, I’m Prasanna Khanal 👋
-**Aspiring Cybersecurity Specialist | Ethical Hacker | Full-Stack Developer**
+**I am into cybersecurity.**
 
 ---
 
 ### 🔭 I’m currently working on
 - Strengthening my **cybersecurity skills** with penetration testing labs and bug bounty challenges  
-- Building personal projects  
+- Building **cybersecurity-related projects**. 
 - Practicing ethical hacking 
 
 ### 👯 I’m looking to collaborate on
@@ -28,7 +26,6 @@
 
 ### 💬 Ask me about
 - Ethical hacking and bug bounty hunting  
-- Full-stack development (PHP, HTML, CSS, JS, MySQL)  
 - Setting up **personal cybersecurity labs**  
 - WSL/Linux tips for Windows users  
 
