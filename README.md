@@ -9,15 +9,7 @@
 - Building **cybersecurity-related projects**. 
 - Practicing ethical hacking 
 
-### 👯 I’m looking to collaborate on
-- Open-source **cybersecurity tools and scripts**  
-- Full-stack web development projects  
-- Community-driven **ethical hacking or CTF challenges**
 
-### 🤝 I’m looking for help with
-- Advanced **penetration testing techniques**  
-- **Bug bounty strategies** for real-world programs  
-- Optimizing **full-stack projects** for performance and security
 
 ### 🌱 I’m currently learning
 - Advanced **Linux administration and command-line tools**  
@@ -29,8 +21,7 @@
 - Setting up **personal cybersecurity labs**  
 - WSL/Linux tips for Windows users  
 
-### ⚡ Fun fact
-- I combine **engineering studies** with practical **cybersecurity learning**  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-khanal-93ba3a27b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanalprasanna2) 
