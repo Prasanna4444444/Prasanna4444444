@@ -1,4 +1,4 @@
-bkkkk# 💫 About Me:
+# 💫 About Me:
 # Hi, I’m Prasanna Khanal 👋
 **I am into cybersecurity.**
 
