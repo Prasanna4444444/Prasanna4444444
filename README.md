@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi, I’m Prasanna Khanal 👋
-**I am into cybersecurity.**l'
+**I am into cybersecurity.**
 
 ---
 
