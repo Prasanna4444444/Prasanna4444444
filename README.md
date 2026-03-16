@@ -10,7 +10,6 @@
 - Practicing ethical hacking 
 
  vhfh
-
 ### 🌱 I’m currently learning
 - Advanced **Linux administration and command-line tools**  
 - **Web security exploits**: XSS, SQLi, CSRF, etc.  
