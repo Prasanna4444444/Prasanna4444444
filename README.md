@@ -1,6 +1,5 @@
 # 💫 About Me:
 # Hi, I’m Prasanna Khanal 👋
-nkjh
 
 ---
 
