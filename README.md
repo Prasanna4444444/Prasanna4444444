@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi, I’m Prasanna Khanal 👋
-fakjd
+
 ---
 
 ### 🔭 I’m currently working on
