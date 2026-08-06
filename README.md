@@ -2,6 +2,7 @@
 # Hi, I’m Prasanna Khanal 👋
 
 ---
+nnmn,
 
 ### 🔭 I’m currently working on
 - Strengthening my **cybersecurity skills** with penetration testing labs and bug bounty challenges  
