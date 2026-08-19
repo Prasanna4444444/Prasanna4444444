@@ -1,7 +1,5 @@
 # 💫 About Me:
 # Hi, I’m Prasanna Khanal 👋
-bnvccbc
-
 ---
 
 ### 🔭 I’m currently working on
